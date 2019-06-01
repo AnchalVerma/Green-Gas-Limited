@@ -158,7 +158,7 @@
                    <td style="border: 1px solid #FFFFFF; color: #948598;">&nbsp;</td>
                    <td style="border: 1px solid #FFFFFF; color: #948598;" class="auto-style3">&nbsp;</td>
                    <td style="border: 1px solid #FFFFFF; color: #948598;">&nbsp;</td>
-               </tr>
+               </tr>                
                <tr>
                    <td style="border: 1px solid #FFFFFF; color: #948598;">&nbsp;</td>
                    <td style="border: 1px solid #FFFFFF; color: #948598;" class="auto-style3">&nbsp;</td>
